@@ -1,4 +1,4 @@
-# Implémentation d'un serveru web multithread en Rust
+# Implémentation d'un serveur web multithread en Rust
 ## Objectif du projet
 L'objectif de ce projet est d'implémenter un serveur web sur le protocole HTTP en Rust avec le module `std::net` de la bibliothèque standard ainsi que les outils de programmation concurente du module `std::sync`.
 
